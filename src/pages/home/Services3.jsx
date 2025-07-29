@@ -55,7 +55,7 @@ export default function Services3() {
       imageSrc: 'https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?q=80&w=2070&auto=format&fit=crop',
     },
     {
-      title: 'Organic Fertilisers',
+      title: 'Organic Fertilizers',
       imageSrc: img5,
     },
     {

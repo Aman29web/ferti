@@ -52,8 +52,8 @@ const InnovationBlock = () => {
             </h3>
             <p className="text-gray-200">
               With 18 manufacturing facilities, we are sought out for our
-              fertilisers, crop protection, bio-pesticides and water soluble
-              fertilisers. We’ve also made a strategic investment for upstream
+              fertilizers, crop protection, bio-pesticides and water soluble
+              fertilizers. We’ve also made a strategic investment for upstream
               integration.
             </p>
           </div>
