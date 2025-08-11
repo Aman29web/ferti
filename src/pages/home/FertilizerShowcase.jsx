@@ -10,8 +10,8 @@ import fertilizer4 from "../../assets/poster18.png";
 import fertilizer5 from "../../assets/poster19.png";
 import fertilizer6 from "../../assets/poster20.png";
 import fertilizer7 from "../../assets/poster21.png";
-import fertilizer8 from "../../assets/poster22.png";
-import fertilizer9 from "../../assets/poster23.png";
+// import fertilizer8 from "../../assets/poster22.png";
+// import fertilizer9 from "../../assets/poster23.png";
 
 
 
@@ -73,22 +73,22 @@ const fertilizers = [
   "description": "An imported, water-soluble Potassium Sulphate (0:0:50) fertilizer. Ideal for foliar application and fertigation to enhance fruit quality, size, and overall crop vigor.",
   "image": fertilizer7,
   },
-  {
-   "id": 8,
-  "name": "HFPL Gregor Black",
-  "weight": "Not Mentioned",
-  "type": "Activated Humic Acid + Fulvic Acid 98%",
-  "description": "A soil conditioner containing 98% Activated Humic and Fulvic Acid. Gregor Black is suitable for all types of plants and home gardens, promoting strong root development and overall plant growth.",
-  "image": fertilizer8,
-  },
-  {
-   "id": 9,
-  "name": "HFPL Sanjivani Sulphur Urvarak",
-  "weight": "1 KG",
-  "type": "Sulphur 90% WDG Fertilizer",
-  "description": "An imported, micronized Sulphur (90% WDG) fertilizer in powder form. It serves as a vital nutrient to correct sulphur deficiency and enhance overall plant health and vigorous growth.",
-  "image": fertilizer9,
-  },
+  // {
+  //  "id": 8,
+  // "name": "HFPL Gregor Black",
+  // "weight": "Not Mentioned",
+  // "type": "Activated Humic Acid + Fulvic Acid 98%",
+  // "description": "A soil conditioner containing 98% Activated Humic and Fulvic Acid. Gregor Black is suitable for all types of plants and home gardens, promoting strong root development and overall plant growth.",
+  // "image": fertilizer8,
+  // },
+  // {
+  //  "id": 9,
+  // "name": "HFPL Sanjivani Sulphur Urvarak",
+  // "weight": "1 KG",
+  // "type": "Sulphur 90% WDG Fertilizer",
+  // "description": "An imported, micronized Sulphur (90% WDG) fertilizer in powder form. It serves as a vital nutrient to correct sulphur deficiency and enhance overall plant health and vigorous growth.",
+  // "image": fertilizer9,
+  // },
 ];
 
 const FertilizerShowcase = () => {
