@@ -1,6 +1,6 @@
 import React from 'react';
-import heroImage from '../../assets/banner.png'; // for large screens
-import mobileImage1 from '../../assets/b1.png'; // image 1 for small screens
+import heroImage from '../../assets/newbanner.png'; // for large screens
+import mobileImage1 from '../../assets/newbanner2.png'; // image 1 for small screens
 import mobileImage2 from '../../assets/b2.png'; // image 2 for small screens
 
 const HeroSection2 = () => {

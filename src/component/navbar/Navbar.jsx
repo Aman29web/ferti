@@ -27,7 +27,7 @@ const Navbar = () => {
         {/* Logo & Brand Name */}
         <div className="flex-shrink-0 flex items-center gap-4">
           <Link to="/" className="transition-transform duration-200 hover:scale-110 flex items-center gap-3">
-            <img src={logo} alt="GreenGrow Logo" className="h-16 w-auto max-h-16" />
+            <img src={logo} alt="GreenGrow Logo" className="h-16 w-auto max-h-16 rounded-sm" />
            <span className="text-sm sm:text-2xl font-semibold text-white block">
               HEMANT FERTILIZERS PVT. LTD.
             </span>
