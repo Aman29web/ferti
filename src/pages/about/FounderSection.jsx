@@ -6,13 +6,13 @@ import img2 from "../../assets/3.jpg";
 const founders = [
   {
     name: "Surendra Kushwaha",
-    role: "Chairman",
+    role: "Director",
     image: img1,
     bio: "Shri Surendra Kushwaha is the Director of Marketing at Hemant Fertilizers Pvt Ltd. A post-graduate from Kanpur University, he has more than 24 years of experience in the Agri–Input industry. Since the company's inception, he has driven its marketing and development strategies as the Marketing Director. He has played a key role in the company’s growth and has been recognized with numerous awards for his contributions, making him a true asset to the organization.",
   },
   {
     name: "Shri Rameshwar Kushwaha",
-    role: "Director",
+    role: "Chairman",
     image: img2,
     bio: "Shri Rameshwar Kushwaha is the Chairman of Hemant Fertilizers Pvt Ltd. After contributing his 29 years to business and reaching them to greater heights, he established Hemant Fertilizers in 1995. His deep commitment and inspiring leadership in initial turbulent days is an example worth inculcating. His passion to contribute to Indian Agriculture is Organic Fertilizers. His ability to prioritize and deal effectively with multiple tasks, reinforced with the skills to make effective decisions.",
   },
